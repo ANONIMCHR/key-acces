@@ -1,1 +1,16 @@
-
+{
+  "keys": [
+    {
+      "key": "NX-0167-9383-4837",
+      "status": "active",
+      "expires": "2026-12-31",
+      "hwid": ""
+    },
+    {
+      "key": "NX-5521-8890-1234",
+      "status": "banned",
+      "expires": "2026-01-01",
+      "hwid": ""
+    }
+  ]
+}
